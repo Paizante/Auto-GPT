@@ -27,6 +27,6 @@ repos:
       - id: pytest-check
         name: pytest-check
         entry: pytest --cov=autogpt --without-integration --without-slow-integration
-        language: system
+        language: portuguese
         pass_filenames: false
         always_run: true
